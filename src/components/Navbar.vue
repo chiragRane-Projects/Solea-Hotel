@@ -3,7 +3,7 @@
     <div class="w-full mx-auto ">
       <!-- Desktop Navbar -->
       <div
-        class="hidden md:flex justify-between items-center border-b border-zinc-800 pb-4 text-white text-sm font-medium uppercase tracking-wide font-semibold"
+        class="hidden md:flex justify-between items-center border-b border-zinc-800 pb-4 text-white text-sm uppercase tracking-wide font-semibold"
       >
         <!-- Left Section -->
         <div class="flex gap-6">
