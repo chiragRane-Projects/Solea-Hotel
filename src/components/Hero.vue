@@ -3,7 +3,7 @@ import Navbar from './Navbar.vue'
 </script>
 
 <template>
-  <div class="relative w-full h-screen overflow-hidden">
+  <div class="relative w-full h-[95vh] overflow-hidden">
     <!-- Hero Image -->
     <img
       src="../assets/heroImage.jpg"
