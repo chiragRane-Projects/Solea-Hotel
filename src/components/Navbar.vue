@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-transparent px-8 py-6 w-full fixed top-0 left-0 z-50">
+  <nav class="bg-transparent px-8 py-6 w-full top-0 left-0 z-50">
     <div class="w-full mx-auto ">
       <!-- Desktop Navbar -->
       <div
